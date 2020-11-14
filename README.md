@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/antriksh123/count.svg" />
 </p>
 
-## Blog posts
+## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Neuron JS - BYE BYE EXPRESS!](https://dev.to/yum/neuron-js-bye-bye-express-26k2)
 - [I Completed Hacktoberfest 2020](https://dev.to/yum/i-completed-hacktoberfest-2020-4ce4)
@@ -29,8 +29,11 @@
  
 [![Antriksh Verma StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12805063)](https://stackoverflow.com/users/12805063/antriksh-verma)
 
+<!-- Technologies -->
+## Technologies
+
 <!-- Languages -->
-## Languages
+### Languages
 
 <div>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -49,7 +52,7 @@
 </div>
 
 <!-- Database -->
-## Databases
+### Databases
 
 <div>
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -60,4 +63,35 @@
 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
+</div>
+
+
+<!-- Frameworks -->
+### Frameworks
+
+<div>
+<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
+
+<!-- CI/CD -->
+### CI/CD
+
+<div>
+<img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
 </div>
