@@ -106,3 +106,10 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Antariksh Verma's DEV Profile" height="30" width="30">
  </a>
 </p>
+
+<br>
+<br>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/antarikshyum" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="70px"></a>
+</p>
