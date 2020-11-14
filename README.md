@@ -29,8 +29,8 @@
  
 [![Antriksh Verma StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12805063)](https://stackoverflow.com/users/12805063/antriksh-verma)
 
-<!-- Language stats -->
-## Language Stats
+<!-- Languages -->
+## Languages
 
 <div>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -44,4 +44,6 @@
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
