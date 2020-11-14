@@ -93,3 +93,12 @@
 
 <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
 </div>
+
+<!-- Social -->
+## Connect with me
+
+<p>
+ <img src="https://img.shields.io/badge/@AntarikshaVerm2%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/@Ant%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+</p>
