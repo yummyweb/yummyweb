@@ -101,4 +101,8 @@
  <img src="https://img.shields.io/badge/@AntarikshaVerm2%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/@Ant%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+ 
+ <a href="https://dev.to/yum">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Antariksh Verma's DEV Profile" height="30" width="30">
+ </a>
 </p>
