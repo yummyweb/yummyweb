@@ -14,7 +14,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- GitHub stats -->
-## ⚡ My Dev Statistics
+## ⚡ My Dev Stats
 
 <p>
 <!-- GitHub Stats -->
@@ -23,3 +23,8 @@
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antriksh123&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+<!-- Stackoverflow stats -->
+## StackOverflow Stats
+
+[![Antriksh Verma StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12805063)](https://stackoverflow.com/users/12805063/antriksh-verma)
