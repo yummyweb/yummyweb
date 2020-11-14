@@ -1,4 +1,4 @@
-### Hi 👋 I am Antariksha (yum)
+<img src="./header.png">
 
 <img src="https://github-profile-trophy.vercel.app/?username=antriksh123">
 
