@@ -103,7 +103,7 @@
  <img src="https://img.shields.io/badge/@Ant%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
  
  <a href="https://dev.to/yum">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Antariksh Verma's DEV Profile" height="30" width="30">
+  <img src="https://img.shields.io/badge/-@yum-0A0A0A?style=for-the-badge&labelColor=black&logo=dev.to">
  </a>
 </p>
 
