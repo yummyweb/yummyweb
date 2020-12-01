@@ -4,11 +4,11 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a Simple Ice Cream Illustration in CSS](https://thewebtech.hashnode.dev/create-a-simple-ice-cream-illustration-in-css)
+- [Download YouTube Videos with Python - Part 1](https://thewebtech.hashnode.dev/download-youtube-videos-with-python-part-1)
+- [Benefits of TypeScript](https://thewebtech.hashnode.dev/benefits-of-typescript)
 - [Neuron JS - BYE BYE EXPRESS!](https://dev.to/yum/neuron-js-bye-bye-express-26k2)
 - [I Completed Hacktoberfest 2020](https://dev.to/yum/i-completed-hacktoberfest-2020-4ce4)
-- [Create your own Express JS middleware](https://thewebtech.hashnode.dev/create-your-own-express-js-middleware)
-- [A History of JavaScript: What is it?](https://thewebtech.hashnode.dev/a-history-of-javascript-what-is-it)
-- [Open Source Firebase?](https://thewebtech.hashnode.dev/open-source-firebase)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- GitHub stats -->
