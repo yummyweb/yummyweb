@@ -4,11 +4,11 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make console.log() colourful](https://thewebtech.hashnode.dev/how-to-make-consolelog-colourful)
 - [My DEV X DO Hackathon Idea (Dont Copy)](https://dev.to/yum/my-dev-x-do-hackathon-idea-dont-copy-5701)
 - [DEV Badge](https://dev.to/yum/dev-badge-hf4)
 - [Create a Simple Ice Cream Illustration in CSS](https://thewebtech.hashnode.dev/create-a-simple-ice-cream-illustration-in-css)
 - [Download YouTube Videos with Python - Part 1](https://thewebtech.hashnode.dev/download-youtube-videos-with-python-part-1)
-- [Benefits of TypeScript](https://thewebtech.hashnode.dev/benefits-of-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- GitHub stats -->
