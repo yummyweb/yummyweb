@@ -4,11 +4,11 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Let's Publish an NPM Package](https://thewebtech.hashnode.dev/lets-publish-an-npm-package)
 - [Tech Stack for DEV X DO Hackathon Project](https://dev.to/yum/tech-stack-for-dev-x-do-hackathon-project-1b6i)
 - [How to make console.log() colourful](https://thewebtech.hashnode.dev/how-to-make-consolelog-colourful)
 - [My DEV X DO Hackathon Idea (Dont Copy)](https://dev.to/yum/my-dev-x-do-hackathon-idea-dont-copy-5701)
 - [DEV Badge](https://dev.to/yum/dev-badge-hf4)
-- [Create a Simple Ice Cream Illustration in CSS](https://thewebtech.hashnode.dev/create-a-simple-ice-cream-illustration-in-css)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- GitHub stats -->
