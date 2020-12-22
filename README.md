@@ -4,11 +4,11 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tesseract OCR with JavaScript using Tesseract.js](https://thewebtech.hashnode.dev/tesseract-ocr-with-javascript-using-tesseractjs)
 - [Making Better Git Commits - Semantic Commit Messages](https://thewebtech.hashnode.dev/making-better-git-commits-semantic-commit-messages)
 - [Tesseract OCR with Python using PyTesseract](https://thewebtech.hashnode.dev/tesseract-ocr-with-python-using-pytesseract)
 - [Let's Publish an NPM Package](https://thewebtech.hashnode.dev/lets-publish-an-npm-package)
 - [Tech Stack for DEV X DO Hackathon Project](https://dev.to/yum/tech-stack-for-dev-x-do-hackathon-project-1b6i)
-- [How to make console.log() colourful](https://thewebtech.hashnode.dev/how-to-make-consolelog-colourful)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- GitHub stats -->
