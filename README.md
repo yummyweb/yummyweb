@@ -4,11 +4,11 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DONE! Cream.io MVP is ready!](https://thewebtech.hashnode.dev/done-creamio-mvp-is-ready)
 - [Tech Stack for Cream.io](https://thewebtech.hashnode.dev/tech-stack-for-creamio)
 - [The end is near - Thanos.js Tutorial (Not a parody)](https://thewebtech.hashnode.dev/the-end-is-near-thanosjs-tutorial-not-a-parody)
 - [Introduction to Cream.io](https://thewebtech.hashnode.dev/introduction-to-creamio)
 - [Tesseract OCR with JavaScript using Tesseract.js](https://thewebtech.hashnode.dev/tesseract-ocr-with-javascript-using-tesseractjs)
-- [Making Better Git Commits - Semantic Commit Messages](https://thewebtech.hashnode.dev/making-better-git-commits-semantic-commit-messages)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- GitHub stats -->
