@@ -1,6 +1,6 @@
 <img src="./header.png">
 
-<img src="https://github-profile-trophy.vercel.app/?username=antriksh123">
+<img src="https://github-profile-trophy.vercel.app/?username=yummyweb">
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,10 +16,10 @@
 
 <div>
 <!-- GitHub Stats -->
-<img height="50%" src="https://github-readme-stats.vercel.app/api?username=antriksh123&show_icons=true&hide_border=true" />
+<img height="50%" src="https://github-readme-stats.vercel.app/api?username=yummyweb&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->
-<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antriksh123&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yummyweb&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
 <!-- Stackoverflow stats -->
