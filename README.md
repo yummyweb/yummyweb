@@ -100,7 +100,7 @@
 <p>
  <img src="https://img.shields.io/badge/@AntarikshaVerm2%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/@Ant%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+ <img src="https://img.shields.io/badge/@yum%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
  
  <a href="https://dev.to/yum">
   <img src="https://img.shields.io/badge/-@yum-0A0A0A?style=for-the-badge&labelColor=black&logo=dev.to">
