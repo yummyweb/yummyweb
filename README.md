@@ -1,6 +1,8 @@
 <img src="header.svg" width="800" height="400">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yummyweb">
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=yummyweb">
+</div>
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
