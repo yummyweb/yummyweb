@@ -1,4 +1,4 @@
-<img src="./header.png">
+<img src="./header.svg">
 
 <img src="https://github-profile-trophy.vercel.app/?username=yummyweb">
 
