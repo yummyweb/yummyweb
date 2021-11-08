@@ -10,7 +10,7 @@
 - [The Definitive TypeScript GraphQL Stack](https://thewebtech.hashnode.dev/the-definitive-typescript-graphql-stack)
 - [DONE! Cream.io MVP is ready!](https://thewebtech.hashnode.dev/done-creamio-mvp-is-ready)
 - [Tech Stack for Cream.io](https://thewebtech.hashnode.dev/tech-stack-for-creamio)
-- [The end is near - Thanos.js Tutorial (Not a parody)](https://thewebtech.hashnode.dev/the-end-is-near-thanosjs-tutorial-not-a-parody)
+- [The end is near - Thanos.js Tutorial &lpar;Not a parody&rpar;](https://thewebtech.hashnode.dev/the-end-is-near-thanosjs-tutorial-not-a-parody)
 - [Introduction to Cream.io](https://thewebtech.hashnode.dev/introduction-to-creamio)
 <!-- BLOG-POST-LIST:END -->
 
